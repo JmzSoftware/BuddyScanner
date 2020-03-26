@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Buddy Scanner</string>
+    <string name="fab_icon">Scan UPC</string>
+    <string name="no_items">No items scanned</string>
+    <string name="scan_text">Scan a barcode\nUse Volume Up to turn flashlight on\nUse Volumn Down to turn flashlight off</string>
+    <string name="settings">Settings</string>
+    <string name="editAutoFill">https://example.com</string>
+    <string name="checkBoxText">Ignore SSL warnings (not recommended)</string>
+    <string name="editTextHint">URL of Grocy Buddy</string>
+</resources>

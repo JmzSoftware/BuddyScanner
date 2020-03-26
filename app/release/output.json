@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.jmzsoft.buddyscanner",
+  "variantName": "processReleaseResources",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [
+        {
+          "key": "packageId",
+          "value": "com.jmzsoft.buddyscanner"
+        },
+        {
+          "key": "split",
+          "value": ""
+        },
+        {
+          "key": "minSdkVersion",
+          "value": "24"
+        }
+      ],
+      "versionCode": 1,
+      "versionName": "1.0",
+      "outputFile": "app-release.apk"
+    }
+  ]
+}
